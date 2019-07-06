@@ -1,0 +1,12 @@
+[version]
+0.102.0
+
+[include]
+<PROJECT_ROOT>/src
+
+[libs]
+
+[options]
+
+[lints]
+all=error
